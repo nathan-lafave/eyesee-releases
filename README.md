@@ -2,7 +2,7 @@
 
 *Though I was blind, now I see.*
 
-Eyeglass-matching software for Eyeglass Ministries. Enter a
+Eyeglass-matching software for the West Haven Eyeglass Ministry. Enter a
 patient's prescription and EyeSee finds the closest match in your inventory
 of donated glasses.
 
@@ -19,7 +19,7 @@ of donated glasses.
 
 ## Installing on Windows
 
-1. Download `EyeSeeSetup-0.1.0.exe`.
+1. Download the `EyeSeeSetup-….exe` file from the latest release.
 2. Double-click it.
 3. **You will see a blue "Windows protected your PC" box.** This is normal —
    see below.
@@ -38,7 +38,8 @@ hidden until you do.
 
 ## Installing on a Mac
 
-1. Download `EyeSee-0.1.0.dmg` and double-click it.
+1. Download the `EyeSee-….dmg` file from the latest release and
+   double-click it.
 2. Drag **EyeSee** onto the **Applications** folder shown in the window.
 3. The first time you open it: **right-click** the EyeSee icon and choose
    **Open**, then click **Open** in the box that appears.
