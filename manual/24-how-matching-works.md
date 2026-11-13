@@ -187,10 +187,15 @@ search prints the same list in the same order in either one.
 
 ### The Equiv case
 
-When an eye matched by spherical equivalent, the margin is simply the
-distance between the patient's spherical equivalent and the lens's, in
+When an eye matched by spherical equivalent, the margin is the distance
+between the patient's spherical equivalent and the lens's, in
 quarter-diopters. The cylinder and axis are not scored, because the whole
 premise of that match is that the cylinder was set aside.
+
+One quirk, kept from the old program so both list the same pairs in the
+same order: for the lens, it uses the sphere *minus* half the cylinder
+rather than plus. That only matters for a lens with a quarter-diopter of
+cylinder, and it moves that eye's margin by one quarter-diopter unit.
 
 ---
 
